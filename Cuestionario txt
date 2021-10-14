@@ -1,4 +1,21 @@
 mi pregunta
+1 - En tus palabras, ¿Qué es internet? Es una red de computadoras interconectada a nivel mundial como si fuera una telaraña, consiste de servidores que proveen información a miles de personas, que están conectadas entre redes de telefonía y cables.  
+
+2 -  Describe los medios físicos y de propagación de ondas por los que se transmite la información en internet. Las hondas son un medio físico que se transmite, de forma periódica, en el espacio transportando energía.
+Los cables son una conexión física desde el proveedor hasta el usuario final.
+
+Los cables de banda ancha, permite transportar mucha información en poco tiempo.(fibra óptica)
+Tecnología inalámbrica son ondas electromagnéticas (como la radio o TV) pueden transmitir información digital.
+Las emisiones terrestres,(telefonía móvil, etc), Emisiones de satélite(TV satélite y telefonía)
+
+3 - ¿Cómo se organiza internet? Habla de las direcciones IP y los DNS.
+
+Cuando un ordenador está conectado a una red (ya sea Internet o una red casera) tiene asignada una dirección IP. Si estamos en una red con pocos ordenadores, es fácil tener memorizadas las direcciones IP de cada uno de los ordenadores y así acceder a ellos pero ¿qué ocurre si hay miles de millones de dispositivos y cada uno tiene una IP diferente? Pues que se haría imposible, por eso existen los dominios y las DNS para traducirlos.
+Por lo tanto, el DNS es un sistema que sirve para traducir los nombres en la red, y está compuesto por tres partes con funciones bien diferenciadas.
+IP significa “Internet Protocol", o lo que es lo mismo, "Protocolo de Internet”. Se trata como dice el nombre de un protocolo de comunicaciones a través de la red. Luego por otro lado tienes la dirección IP, que es el número que escoges o se te asigna dentro de la red, y que es la manera que tiene Internet de saber quién es quién.
+
+4 - Describe el procedimiento por el cual una canción de Spotify llega del servidor de la compañía a tu celular.
+
 
 
 
